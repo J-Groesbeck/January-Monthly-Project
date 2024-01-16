@@ -1,3 +1,5 @@
+const heroImg = document.getElementById('hero')
+const heroText = document.getElementById('hero-text')
 const info = document.getElementById('info')
 const img1 = document.getElementById('img1')
 const img2 = document.getElementById('img2')
@@ -5,6 +7,10 @@ const img3 = document.getElementById('img3')
 const img4 = document.getElementById('img4')
 
 function change1719() {
+    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroText.innerHTML = `1719
+                        <br>
+                        Robinson Crusoe is Published`
     info.innerHTML = `<li>"Robinson Crusoe" is a novel written by Daniel Defoe, first published on April 25, 1719.</li>
                 <li>The novel is considered one of the earliest examples of realistic fiction and is often regarded as
                     the first English novel.</li>
@@ -19,13 +25,17 @@ function change1719() {
                     film, making it a classic in world literature.</li>
                 <li>Daniel Defoe's work laid the foundation for the development of the novel as a literary form and has
                     had a lasting impact on storytelling.</li>`
-    img1.src = ''
-    img2.src = ''
-    img3.src = ''
-    img4.src = ''
+    img1.src = 'https://picsum.photos/200/200'
+    img2.src = 'https://picsum.photos/200/200'
+    img3.src = 'https://picsum.photos/200/200'
+    img4.src = 'https://picsum.photos/200/200'
 }
 
 function change1917() {
+    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroText.innerHTML = `1917
+                        <br>
+                        Ella Fitzgerald is Born`
     info.innerHTML = `<li>Ella Fitzgerald, a legendary jazz singer, was born on April 25, 1917, in Newport News, Virginia, USA.</li>
                     <li>Often referred to as the "First Lady of Song" and the "Queen of Jazz," Fitzgerald had a remarkable vocal range and a unique ability to improvise.</li>
                     <li>She began her career as a singer in the mid-1930s, gaining prominence with the Chick Webb Orchestra.</li>
@@ -36,13 +46,17 @@ function change1917() {
                     <li>She received numerous awards and honors, including 13 Grammy Awards, the Presidential Medal of Freedom, and the National Medal of Arts.</li>
                     <li>Ella Fitzgerald's legacy extends beyond her incredible voice; she played a vital role in breaking racial barriers in the music industry during her time.</li>
                     <li>Fitzgerald passed away on June 15, 1996, leaving behind a legacy that continues to inspire and influence generations of musicians.</li>`
-    img1.src = ''
-    img2.src = ''
-    img3.src = ''
-    img4.src = ''
+    img1.src = 'https://picsum.photos/200/200'
+    img2.src = 'https://picsum.photos/200/200'
+    img3.src = 'https://picsum.photos/200/200'
+    img4.src = 'https://picsum.photos/200/200'
 }
 
 function change1974() {
+    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroText.innerHTML = `1974
+                        <br>
+                        Estado Novo is Overthrown in Portugal`
     info.innerHTML = `<li>The overthrow of the fascist Estado Novo regime in Portugal occurred on April 25, 1974, in what is known as
                       the Carnation Revolution.</li>
                     <li>The revolution was a peaceful and largely bloodless military coup led by the Armed Forces Movement (Movimento das Forças Armadas or MFA), composed of young military officers dissatisfied with the authoritarian regime.</li>
@@ -54,13 +68,17 @@ function change1974() {
                     <li>Following the revolution, political prisoners were released, censorship was lifted, and political exiles returned.</li>
                     <li>Portugal underwent a process of decolonization, granting independence to its African colonies, including Mozambique, Angola, Cape Verde, Guinea-Bissau, and São Tomé and Príncipe.</li>
                     <li>The Carnation Revolution is celebrated annually in Portugal as a national holiday, known as Freedom Day (Dia da Liberdade), commemorating the triumph of democracy and the end of dictatorship.</li>`
-    img1.src = ''
-    img2.src = ''
-    img3.src = ''
-    img4.src = ''
+    img1.src = 'https://picsum.photos/200/200'
+    img2.src = 'https://picsum.photos/200/200'
+    img3.src = 'https://picsum.photos/200/200'
+    img4.src = 'https://picsum.photos/200/200'
 }
 
 function change1990() {
+    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroText.innerHTML = `1990
+                        <br>
+                        Hubble Space Telescope is Placed in Orbit`
     info.innerHTML = `<li>The Hubble Space Telescope was launched into orbit on April 25, 1990, aboard the Space Shuttle Discovery
                       (STS-31 mission).</li>
                     <li>It was named after the astronomer Edwin Hubble and is a joint project between NASA and the European Space Agency (ESA).</li>
@@ -70,13 +88,17 @@ function change1990() {
                     <li>A corrective optics package was installed during a servicing mission in 1993, significantly improving Hubble's image quality.</li>
                     <li>Hubble has contributed immensely to our understanding of the universe, providing breathtaking images and valuable scientific data.</li>
                     <li>It remains one of the most important and iconic astronomical observatories, contributing to numerous scientific discoveries and breakthroughs.</li>`
-    img1.src = ''
-    img2.src = ''
-    img3.src = ''
-    img4.src = ''
+    img1.src = 'https://picsum.photos/200/200'
+    img2.src = 'https://picsum.photos/200/200'
+    img3.src = 'https://picsum.photos/200/200'
+    img4.src = 'https://picsum.photos/200/200'
 }
 
 function change2015() {
+    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroText.innerHTML = `2015
+                        <br>
+                        Magnitude 7.8 Earthquake in Nepal`
     info.innerHTML = `<li>A devastating earthquake with a magnitude of 7.8 struck Nepal on April 25, 2015.</li>
                     <li>The earthquake's epicenter was near the capital city, Kathmandu, and it had a shallow depth, intensifying its impact on the region.</li>
                     <li>The earthquake occurred as a result of the Indian and Eurasian tectonic plates colliding, causing significant seismic activity in the Himalayan region.</li>
@@ -87,8 +109,10 @@ function change2015() {
                     <li>The international community responded with immediate aid and relief efforts, including search and rescue teams, medical assistance, and humanitarian aid.</li>
                     <li>The earthquake's impact extended beyond Nepal, affecting neighboring countries like India, China, and Bangladesh.</li>
                     <li>The aftermath prompted discussions about earthquake preparedness, building resilience, and the need for international collaboration in disaster response and recovery.</li>`
-    img1.src = ''
-    img2.src = ''
-    img3.src = ''
-    img4.src = ''
+    img1.src = 'https://picsum.photos/200/200'
+    img2.src = 'https://picsum.photos/200/200'
+    img3.src = 'https://picsum.photos/200/200'
+    img4.src = 'https://picsum.photos/200/200'
 }
+
+change1719()
