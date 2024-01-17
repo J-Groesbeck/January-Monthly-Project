@@ -25,9 +25,9 @@ function change1719() {
                     film, making it a classic in world literature.</li>
                 <li>Daniel Defoe's work laid the foundation for the development of the novel as a literary form and has
                     had a lasting impact on storytelling.</li>`
-    img1.src = 'https://picsum.photos/200/200'
+    img1.src = 'imgs/crusoe-cover.jpg'
     img2.src = 'https://picsum.photos/200/200'
-    img3.src = 'https://picsum.photos/200/200'
+    img3.src = 'imgs/defoe.avif'
     img4.src = 'https://picsum.photos/200/200'
 }
 
