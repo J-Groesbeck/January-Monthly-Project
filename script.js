@@ -7,7 +7,7 @@ const img3 = document.getElementById('img3')
 const img4 = document.getElementById('img4')
 
 function change1719() {
-    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroImg.style.backgroundImage = `imgs/crusoe-banner`
     heroText.innerHTML = `1719
                         <br>
                         Robinson Crusoe is Published`
@@ -25,10 +25,12 @@ function change1719() {
                     film, making it a classic in world literature.</li>
                 <li>Daniel Defoe's work laid the foundation for the development of the novel as a literary form and has
                     had a lasting impact on storytelling.</li>`
-    img1.src = 'imgs/crusoe-cover.jpg'
-    img2.src = 'https://picsum.photos/200/200'
-    img3.src = 'imgs/defoe.avif'
-    img4.src = 'https://picsum.photos/200/200'
+    img1.src = 'imgs/defoe.avif'
+    img2.src = 'imgs/crusoe-building.jpg'
+    img3.src = 'imgs/crusoe-cover.jpg'
+    img4.src = 'imgs/crusoe-on-island.webp'
+    img3.style.width = '100%'
+    img4.style.width = '100%'
 }
 
 function change1917() {
