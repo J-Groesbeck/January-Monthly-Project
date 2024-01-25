@@ -7,7 +7,7 @@ const img3 = document.getElementById('img3')
 const img4 = document.getElementById('img4')
 
 function change1719() {
-    heroImg.style.backgroundImage = `imgs/crusoe-banner`
+    heroImg.classList = 'col-12 bg-hero-image crusoe-banner'
     heroText.innerHTML = `1719
                         <br>
                         Robinson Crusoe is Published`
@@ -25,16 +25,14 @@ function change1719() {
                     film, making it a classic in world literature.</li>
                 <li>Daniel Defoe's work laid the foundation for the development of the novel as a literary form and has
                     had a lasting impact on storytelling.</li>`
-    img1.src = 'imgs/defoe.avif'
+    img1.src = 'imgs/crusoe-author.avif'
     img2.src = 'imgs/crusoe-building.jpg'
     img3.src = 'imgs/crusoe-cover.jpg'
     img4.src = 'imgs/crusoe-on-island.webp'
-    img3.style.width = '100%'
-    img4.style.width = '100%'
 }
 
 function change1917() {
-    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroImg.classList = 'col-12 bg-hero-image fitzgerald-banner'
     heroText.innerHTML = `1917
                         <br>
                         Ella Fitzgerald is Born`
@@ -48,14 +46,14 @@ function change1917() {
                     <li>She received numerous awards and honors, including 13 Grammy Awards, the Presidential Medal of Freedom, and the National Medal of Arts.</li>
                     <li>Ella Fitzgerald's legacy extends beyond her incredible voice; she played a vital role in breaking racial barriers in the music industry during her time.</li>
                     <li>Fitzgerald passed away on June 15, 1996, leaving behind a legacy that continues to inspire and influence generations of musicians.</li>`
-    img1.src = 'https://picsum.photos/200/200'
-    img2.src = 'https://picsum.photos/200/200'
-    img3.src = 'https://picsum.photos/200/200'
-    img4.src = 'https://picsum.photos/200/200'
+    img1.src = 'imgs/fitzgerald-book-cover.jpg'
+    img2.src = 'imgs/fitzgerald-foundation.jpg'
+    img3.src = 'imgs/fitzgerald-older.jpg'
+    img4.src = 'imgs/fitzgerald-singing.jpg'
 }
 
 function change1974() {
-    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroImg.classList = 'col-12 bg-hero-image overthrowing-banner'
     heroText.innerHTML = `1974
                         <br>
                         Estado Novo is Overthrown in Portugal`
@@ -77,7 +75,7 @@ function change1974() {
 }
 
 function change1990() {
-    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroImg.classList = 'col-12 bg-hero-image hubble-banner'
     heroText.innerHTML = `1990
                         <br>
                         Hubble Space Telescope is Placed in Orbit`
@@ -97,7 +95,7 @@ function change1990() {
 }
 
 function change2015() {
-    heroImg.style.backgroundImage = `url('https://picsum.photos/1300/500');`
+    heroImg.classList = 'col-12 bg-hero-image earthquake-banner'
     heroText.innerHTML = `2015
                         <br>
                         Magnitude 7.8 Earthquake in Nepal`

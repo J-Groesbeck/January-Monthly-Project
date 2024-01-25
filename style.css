@@ -1,10 +1,29 @@
 .bg-hero-image {
-    background-image: url(imgs/crusoe-banner.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-blend-mode: overlay;
     background-color: #d1d1d1;
     background-size: cover;
+}
+
+.crusoe-banner {
+    background-image: url(imgs/crusoe-banner.jpg);
+}
+
+.fitzgerald-banner {
+    background-image: url(imgs/fitzgerald-banner.jpg);
+}
+
+.overthrowing-banner {
+    background-image: url('https://picsum.photos/1300/500');
+}
+
+.hubble-banner {
+    background-image: url('https://picsum.photos/1300/500');
+}
+
+.earthquake-banner {
+    background-image: url('https://picsum.photos/1300/500');
 }
 
 img {
