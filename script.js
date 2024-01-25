@@ -68,10 +68,10 @@ function change1974() {
                     <li>Following the revolution, political prisoners were released, censorship was lifted, and political exiles returned.</li>
                     <li>Portugal underwent a process of decolonization, granting independence to its African colonies, including Mozambique, Angola, Cape Verde, Guinea-Bissau, and São Tomé and Príncipe.</li>
                     <li>The Carnation Revolution is celebrated annually in Portugal as a national holiday, known as Freedom Day (Dia da Liberdade), commemorating the triumph of democracy and the end of dictatorship.</li>`
-    img1.src = 'https://picsum.photos/200/200'
-    img2.src = 'https://picsum.photos/200/200'
-    img3.src = 'https://picsum.photos/200/200'
-    img4.src = 'https://picsum.photos/200/200'
+    img1.src = 'imgs/overthrowing-protest.webp'
+    img2.src = 'imgs/overthrowing-tank.jpg'
+    img3.src = 'imgs/overthrowing-puzzle.jpg'
+    img4.src = 'imgs/overthrowing-regime.jpg'
 }
 
 function change1990() {
@@ -88,10 +88,10 @@ function change1990() {
                     <li>A corrective optics package was installed during a servicing mission in 1993, significantly improving Hubble's image quality.</li>
                     <li>Hubble has contributed immensely to our understanding of the universe, providing breathtaking images and valuable scientific data.</li>
                     <li>It remains one of the most important and iconic astronomical observatories, contributing to numerous scientific discoveries and breakthroughs.</li>`
-    img1.src = 'https://picsum.photos/200/200'
-    img2.src = 'https://picsum.photos/200/200'
-    img3.src = 'https://picsum.photos/200/200'
-    img4.src = 'https://picsum.photos/200/200'
+    img1.src = 'imgs/hubble-img.jpg'
+    img2.src = 'imgs/hubble-model.jpg'
+    img3.src = 'imgs/hubble-museum.jpg'
+    img4.src = 'imgs/hubble-picture-taken.jpg'
 }
 
 function change2015() {
@@ -109,10 +109,10 @@ function change2015() {
                     <li>The international community responded with immediate aid and relief efforts, including search and rescue teams, medical assistance, and humanitarian aid.</li>
                     <li>The earthquake's impact extended beyond Nepal, affecting neighboring countries like India, China, and Bangladesh.</li>
                     <li>The aftermath prompted discussions about earthquake preparedness, building resilience, and the need for international collaboration in disaster response and recovery.</li>`
-    img1.src = 'https://picsum.photos/200/200'
-    img2.src = 'https://picsum.photos/200/200'
-    img3.src = 'https://picsum.photos/200/200'
-    img4.src = 'https://picsum.photos/200/200'
+    img1.src = 'imgs/earthquake-parent-child.jpg'
+    img2.src = 'imgs/earthquake-devastation.jpg'
+    img3.src = 'imgs/earthquake-graphic.webp'
+    img4.src = 'imgs/earthquake-group-effort.jpg'
 }
 
 change1719()

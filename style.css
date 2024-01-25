@@ -15,15 +15,15 @@
 }
 
 .overthrowing-banner {
-    background-image: url('https://picsum.photos/1300/500');
+    background-image: url(imgs/overthrowing-banner.jpg);
 }
 
 .hubble-banner {
-    background-image: url('https://picsum.photos/1300/500');
+    background-image: url(imgs/hubble-banner.webp);
 }
 
 .earthquake-banner {
-    background-image: url('https://picsum.photos/1300/500');
+    background-image: url(imgs/earthquake-banner.avif);
 }
 
 img {
