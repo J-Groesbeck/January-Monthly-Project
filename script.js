@@ -11,7 +11,7 @@ function change1719() {
     heroText.innerHTML = `1719
                         <br>
                         Robinson Crusoe is Published`
-    info.innerHTML = `<li>"Robinson Crusoe" is a novel written by Daniel Defoe, first published on April 25, 1719.</li>
+    info.innerHTML = `<br><li>"Robinson Crusoe" is a novel written by Daniel Defoe, first published on April 25, 1719.</li>
                 <li>The novel is considered one of the earliest examples of realistic fiction and is often regarded as
                     the first English novel.</li>
                 <li>It tells the story of Robinson Crusoe, a mariner who is shipwrecked and stranded on a deserted
@@ -24,7 +24,7 @@ function change1719() {
                 <li>The novel has been widely translated and adapted into various forms of literature, theater, and
                     film, making it a classic in world literature.</li>
                 <li>Daniel Defoe's work laid the foundation for the development of the novel as a literary form and has
-                    had a lasting impact on storytelling.</li>`
+                    had a lasting impact on storytelling.</li><br>`
     img1.src = 'imgs/crusoe-author.avif'
     img2.src = 'imgs/crusoe-building.jpg'
     img3.src = 'imgs/crusoe-cover.jpg'
@@ -36,7 +36,7 @@ function change1917() {
     heroText.innerHTML = `1917
                         <br>
                         Ella Fitzgerald is Born`
-    info.innerHTML = `<li>Ella Fitzgerald, a legendary jazz singer, was born on April 25, 1917, in Newport News, Virginia, USA.</li>
+    info.innerHTML = `<br><li>Ella Fitzgerald, a legendary jazz singer, was born on April 25, 1917, in Newport News, Virginia, USA.</li>
                     <li>Often referred to as the "First Lady of Song" and the "Queen of Jazz," Fitzgerald had a remarkable vocal range and a unique ability to improvise.</li>
                     <li>She began her career as a singer in the mid-1930s, gaining prominence with the Chick Webb Orchestra.</li>
                     <li>Fitzgerald's breakthrough came with her hit recording of "A-Tisket, A-Tasket" in 1938, which showcased her vocal prowess and became a chart-topping success.</li>
@@ -45,7 +45,7 @@ function change1917() {
                     <li>Fitzgerald's extensive discography includes numerous albums and iconic songs, making her a celebrated figure in the history of jazz music.</li>
                     <li>She received numerous awards and honors, including 13 Grammy Awards, the Presidential Medal of Freedom, and the National Medal of Arts.</li>
                     <li>Ella Fitzgerald's legacy extends beyond her incredible voice; she played a vital role in breaking racial barriers in the music industry during her time.</li>
-                    <li>Fitzgerald passed away on June 15, 1996, leaving behind a legacy that continues to inspire and influence generations of musicians.</li>`
+                    <li>Fitzgerald passed away on June 15, 1996, leaving behind a legacy that continues to inspire and influence generations of musicians.</li><br>`
     img1.src = 'imgs/fitzgerald-book-cover.jpg'
     img2.src = 'imgs/fitzgerald-foundation.jpg'
     img3.src = 'imgs/fitzgerald-older.jpg'
@@ -57,7 +57,7 @@ function change1974() {
     heroText.innerHTML = `1974
                         <br>
                         Estado Novo is Overthrown in Portugal`
-    info.innerHTML = `<li>The overthrow of the fascist Estado Novo regime in Portugal occurred on April 25, 1974, in what is known as
+    info.innerHTML = `<br><li>The overthrow of the fascist Estado Novo regime in Portugal occurred on April 25, 1974, in what is known as
                       the Carnation Revolution.</li>
                     <li>The revolution was a peaceful and largely bloodless military coup led by the Armed Forces Movement (Movimento das Forças Armadas or MFA), composed of young military officers dissatisfied with the authoritarian regime.</li>
                     <li>The Estado Novo regime, led by Prime Minister Marcelo Caetano, had been in power for decades under the leadership of António de Oliveira Salazar before him.</li>
@@ -67,7 +67,7 @@ function change1974() {
                     <li>The overthrow of the Estado Novo marked the end of Portugal's long-standing authoritarian rule and paved the way for a transition to democracy.</li>
                     <li>Following the revolution, political prisoners were released, censorship was lifted, and political exiles returned.</li>
                     <li>Portugal underwent a process of decolonization, granting independence to its African colonies, including Mozambique, Angola, Cape Verde, Guinea-Bissau, and São Tomé and Príncipe.</li>
-                    <li>The Carnation Revolution is celebrated annually in Portugal as a national holiday, known as Freedom Day (Dia da Liberdade), commemorating the triumph of democracy and the end of dictatorship.</li>`
+                    <li>The Carnation Revolution is celebrated annually in Portugal as a national holiday, known as Freedom Day (Dia da Liberdade), commemorating the triumph of democracy and the end of dictatorship.</li><br>`
     img1.src = 'imgs/overthrowing-protest.webp'
     img2.src = 'imgs/overthrowing-tank.jpg'
     img3.src = 'imgs/overthrowing-puzzle.jpg'
@@ -79,7 +79,7 @@ function change1990() {
     heroText.innerHTML = `1990
                         <br>
                         Hubble Space Telescope is Placed in Orbit`
-    info.innerHTML = `<li>The Hubble Space Telescope was launched into orbit on April 25, 1990, aboard the Space Shuttle Discovery
+    info.innerHTML = `<br><li>The Hubble Space Telescope was launched into orbit on April 25, 1990, aboard the Space Shuttle Discovery
                       (STS-31 mission).</li>
                     <li>It was named after the astronomer Edwin Hubble and is a joint project between NASA and the European Space Agency (ESA).</li>
                     <li>The telescope was deployed into low Earth orbit at an altitude of about 547 kilometers (340 miles).</li>
@@ -87,7 +87,7 @@ function change1990() {
                     <li>The launch initially faced challenges, including a flaw in the telescope's primary mirror that affected its early images.</li>
                     <li>A corrective optics package was installed during a servicing mission in 1993, significantly improving Hubble's image quality.</li>
                     <li>Hubble has contributed immensely to our understanding of the universe, providing breathtaking images and valuable scientific data.</li>
-                    <li>It remains one of the most important and iconic astronomical observatories, contributing to numerous scientific discoveries and breakthroughs.</li>`
+                    <li>It remains one of the most important and iconic astronomical observatories, contributing to numerous scientific discoveries and breakthroughs.</li><br>`
     img1.src = 'imgs/hubble-img.jpg'
     img2.src = 'imgs/hubble-model.jpg'
     img3.src = 'imgs/hubble-museum.jpg'
@@ -99,7 +99,7 @@ function change2015() {
     heroText.innerHTML = `2015
                         <br>
                         Magnitude 7.8 Earthquake in Nepal`
-    info.innerHTML = `<li>A devastating earthquake with a magnitude of 7.8 struck Nepal on April 25, 2015.</li>
+    info.innerHTML = `<br><li>A devastating earthquake with a magnitude of 7.8 struck Nepal on April 25, 2015.</li>
                     <li>The earthquake's epicenter was near the capital city, Kathmandu, and it had a shallow depth, intensifying its impact on the region.</li>
                     <li>The earthquake occurred as a result of the Indian and Eurasian tectonic plates colliding, causing significant seismic activity in the Himalayan region.</li>
                     <li>The quake triggered widespread destruction, causing buildings, including historical structures and temples, to collapse in Kathmandu and surrounding areas.</li>
@@ -108,7 +108,7 @@ function change2015() {
                     <li>The disaster resulted in a humanitarian crisis, with a large number of people left homeless and in need of basic necessities.</li>
                     <li>The international community responded with immediate aid and relief efforts, including search and rescue teams, medical assistance, and humanitarian aid.</li>
                     <li>The earthquake's impact extended beyond Nepal, affecting neighboring countries like India, China, and Bangladesh.</li>
-                    <li>The aftermath prompted discussions about earthquake preparedness, building resilience, and the need for international collaboration in disaster response and recovery.</li>`
+                    <li>The aftermath prompted discussions about earthquake preparedness, building resilience, and the need for international collaboration in disaster response and recovery.</li><br>`
     img1.src = 'imgs/earthquake-parent-child.jpg'
     img2.src = 'imgs/earthquake-devastation.jpg'
     img3.src = 'imgs/earthquake-graphic.webp'
